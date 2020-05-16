@@ -1,6 +1,6 @@
 # pytest_task1
 
-Open `tests/test_codes.py` file and write test for divide fuction tests:
+Open `tests/test_codes.py` file and write test for divide function tests:
 
 
 ```
